@@ -1,0 +1,9 @@
+.post-detail {
+	margin: 20px;
+	padding: 20px;
+	width: 60%;
+}
+
+.detail-container {
+	border-bottom: 2px solid chocolate;
+}

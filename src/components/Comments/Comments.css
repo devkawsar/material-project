@@ -1,0 +1,14 @@
+.comments-container {
+	display: flex;
+	margin: 20px;
+	padding: 20px;
+	border-bottom: 1px solid peru;
+}
+
+.image-container {
+	width: 25%;
+	padding: 20px;
+}
+.image-container img {
+	border-radius: 50%;
+}
