@@ -12,7 +12,7 @@ const Home = () => {
 	});
 	return (
 		<Container>
-			<Typography variant="h2">Material Project</Typography>
+			<Typography variant="h2">Social Buddy</Typography>
 			<br />
 			{posts.map((post) => (
 				<Post key={post.id} blogPost={post}></Post>
